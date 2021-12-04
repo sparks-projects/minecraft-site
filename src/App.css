@@ -1,0 +1,28 @@
+.header {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+  width: 100%;
+  border-bottom: 2px solid black;
+}
+
+.navigation-bar {
+  width: 140px;
+  height: 100vh;
+  border-right: 2px solid black;
+}
+
+.navigation-button {
+  margin-left: 20px;
+  margin-bottom: 2px;
+  padding-left: 8px;
+  padding-top: 8px;
+  height: 30px;
+  color: white;
+  background-color: rgb(50, 100, 50);
+}
+
+.navigation-button:hover {
+  background-color: white;
+  color: black;
+}
